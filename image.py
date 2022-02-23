@@ -2,6 +2,7 @@ from PIL import Image
 import os, csv
 
 # set image path
+# remove 'path/' if file is in current directory
 file = "path/filename.jpg"
 
 # set height and with of image
