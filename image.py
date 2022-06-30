@@ -9,7 +9,7 @@ file = "path/filename.jpg"
 h = 64
 w = 64
 
-size = h, w
+size = w, h
 # max hex color (#ffffff)
 current_difference = 16777215
 
